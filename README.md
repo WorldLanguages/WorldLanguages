@@ -18,7 +18,9 @@ developed by the community since 2020.
     <td rowspan="2">
       The Scratch Addons browser extension has over 200,000 users on the
       <a href="https://chrome.google.com/webstore/detail/fbeffbjdlemaoicjdapfpikkikjoneco">Chrome Web Store</a>. Thanks
-      to volunteers around the world, it is available in multiple languages and new features are added each month.
+      to volunteers around the world, it is available in multiple languages and new features are added each month.&nbsp;&nbsp;&nbsp;<a href="https://github.com/ScratchAddons/ScratchAddons"><img
+          src="https://img.shields.io/github/stars/ScratchAddons/ScratchAddons?logo=coveralls&label=%E2%80%8B%E2%80%81Github%20Stars%E2%80%8B%E2%80%8B%E2%80%81%E2%80%8B&color=ffff00&style=plastic"
+          width="140" height="18"></a>
     </td>
   </tr>
 </table>
